@@ -8,6 +8,7 @@ mkShell {
     libiconv
     libxml2
     libsass
+    yarn
 
     ruby_2_7
     postgresql_10
